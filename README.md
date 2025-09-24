@@ -25,7 +25,7 @@ To integrate this system into your project, follow the 4 steps below:
 * Open your character's Blueprint.
 * Click `+ Add` and add the `InteractionComponent`.
 * In the character's `Event Graph`, create the input logic (e.g., on pressing the **E** key), get a reference to the `InteractionComponent`, and call the `Interaction` function.
-* 
+  
 ### 2. Prepare the Interactable Actor
 
 Any actor you want to be "interactable" (a door, a button, an item) must implement the "InteractionInterface" OR be a child of "BaseInteractionActor" class.
