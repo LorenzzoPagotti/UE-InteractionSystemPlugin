@@ -52,6 +52,7 @@ You can customize the component's behavior directly in your character's Details 
 
 | **Trace Reach** | The maximum distance, in units, that the character can reach to interact. |
 | **Interaction Check Rate** | The frequency (in seconds) at which the system checks what the player is aiming at. Lower values are more responsive but consume more performance. |
+| **Show Interaction UI** | Enables or disables the check and event for visual UI feedback. The core interaction still works even if disabled. |
 
 <details>
 <summary><strong>Ver em Português 🇧🇷</strong></summary>
