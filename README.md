@@ -50,9 +50,9 @@ You can customize the component's behavior directly in your character's Details 
 
 | Property | Description |
 
-| **Trace Reach** | The maximum distance, in units, that the character can reach to interact. |
-| **Interaction Check Rate** | The frequency (in seconds) at which the system checks what the player is aiming at. Lower values are more responsive but consume more performance. |
-| **Show Interaction UI** | Enables or disables the check and event for visual UI feedback. The core interaction still works even if disabled. |
+* | **Trace Reach** | The maximum distance, in units, that the character can reach to interact. |
+* | **Interaction Check Rate** | The frequency (in seconds) at which the system checks what the player is aiming at. Lower values are more responsive but consume more performance. |
+* | **Show Interaction UI** | Enables or disables the check and event for visual UI feedback. The core interaction still works even if disabled. |
 
 <details>
 <summary><strong>Ver em Português 🇧🇷</strong></summary>
@@ -106,11 +106,9 @@ Se você ativou a opção `bShowInteractionUI` no componente, sua UI pode reagir
 Você pode customizar o comportamento do componente diretamente no Details Panel do seu personagem.
 
 | Propriedade | Descrição |
-| :--- | :--- |
-| **Trace Reach** | A distância máxima, em unidades, que o personagem consegue alcançar para interagir. |
-| **Interaction Check Rate** | A frequência (em segundos) com que o sistema verifica o que está na mira do jogador. Valores menores são mais responsivos, mas consomem mais performance. |
-| **Show Interaction UI** | Ativa ou desativa a verificação e o evento para o feedback visual da UI. A interação principal continua funcionando mesmo se desativado. |
+
+* | **Trace Reach** | A distância máxima, em unidades, que o personagem consegue alcançar para interagir. |
+* | **Interaction Check Rate** | A frequência (em segundos) com que o sistema verifica o que está na mira do jogador. Valores menores são mais responsivos, mas consomem mais performance. |
+* | **Show Interaction UI** | Ativa ou desativa a verificação e o evento para o feedback visual da UI. A interação principal continua funcionando mesmo se desativado. |
 
 </details>
-| **Show Interaction UI** | Enables or disables the check and event for visual UI feedback. The core interaction still works even if disabled. |
-
